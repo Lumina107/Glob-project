@@ -16,7 +16,7 @@ export default function Buying() {
                         words="BUY $GLOB"
                         delay={0.05} />
                     <WordPullUp
-                        className="text-base md:text-2xl text-white font-normal max-w-5xl font-chivo"
+                        className="text-base md:text-2xl mx-auto text-white font-normal max-w-5xl font-chivo"
                         words="wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen? wen?"
                     />
                 </div>

@@ -37,7 +37,7 @@ export default function Banner(props: { glob: string }) {
                     alt={'Animation Gif'}
                     sizes='100%'
                     priority
-                    className='w-screen h-auto'
+                    className='w-screen h-auto -mb-[3.5%]'
                 />
             </div>
         </section>

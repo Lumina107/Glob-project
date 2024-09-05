@@ -29,7 +29,7 @@ export default function Faq() {
                                     Is this a cabal play?
                                 </AccordionTrigger>
                                 <AccordionContent>
-                                    Yes. It adheres to the WAI-ARIA design pattern.
+                                    Your mom.
                                 </AccordionContent>
                             </AccordionItem>
                             <div className="h-0.5 w-full bg-gradient-to-r from-black/0 via-black to-black/0"></div>
@@ -38,8 +38,7 @@ export default function Faq() {
                                     <span>   Is this <span className='underline'>$MUMU</span> dev?</span>
                                 </AccordionTrigger>
                                 <AccordionContent>
-                                    Yes. It comes with default styles that matches the other
-                                    components&apos; aesthetic.
+                                    Your mom.
                                 </AccordionContent>
                             </AccordionItem>
                             <div className="h-0.5 w-full bg-gradient-to-r from-black/0 via-black to-black/0"></div>
@@ -50,8 +49,7 @@ export default function Faq() {
                                     complex?
                                 </AccordionTrigger>
                                 <AccordionContent>
-                                    Yes. It&apos;s animated by default, but you can disable it if you
-                                    prefer.
+                                    Yezurrr.
                                 </AccordionContent>
                             </AccordionItem>
                         </Accordion>
