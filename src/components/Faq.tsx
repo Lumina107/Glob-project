@@ -9,7 +9,8 @@ import {
 
 export default function Faq() {
     return (
-        <section className='px-5 md:px-12 lg:px-16 xl:px-20 pt-20' id='faq'>
+        <section className='px-5 md:px-12 lg:px-16 xl:px-20 pt-20 bg-gradient-to-r
+         from-light-green to-dark-green' id='faq'>
             <div className="grid md:grid-cols-2 max-w-screen-2xl items-end gap-5">
                 <div className='flex items-end justify-center order-2 md:order-1'>
                     <Image
