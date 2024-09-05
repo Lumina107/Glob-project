@@ -9,7 +9,7 @@ export default function About() {
     return (
         <section
             id='about'
-            className='border-black border-[15px] py-20 md:py-12 
+            className='py-20 md:py-12 
             -mt-3.5 bg-[#5C72BC] px-5 md:px-12 lg:px-16 xl:px-20'
         >
             <div className="grid gap-10 md:grid-cols-2 max-w-screen-2xl items-center">
