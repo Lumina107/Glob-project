@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 export default function Footer() {
     return (
-        <footer className='py-10 flex flex-col items-center justify-center gap-5 bg-[#6379C2]'>
+        <footer className='py-10 -mt-5 z-10 relative flex flex-col items-center justify-center gap-5 bg-[#6379C2]'>
             <Image
                 src={Logo}
                 alt='Logo'
