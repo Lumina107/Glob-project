@@ -1,6 +1,6 @@
 import { AnimatedSubscribeButton } from './magicui/animated-subscribe-button';
 import AboutImage from './../assets/about.png';
-import Artwork from './../assets/artwork.gif';
+import Artwork from './../assets/Tokenomics.gif';
 import Image from 'next/image'
 import LetterPullup from './magicui/letter-pullup';
 
