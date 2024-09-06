@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Tokens from './../assets/Tokenomics.gif';
+import Tokens from './../assets/artwork.gif';
 import {
     Accordion,
     AccordionContent,
