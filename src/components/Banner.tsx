@@ -21,7 +21,7 @@ export default function Banner(props: { glob: string }) {
                     <BlurIn
                         word=
                         {<span className='text-white text-3xl md:text-4xl lg:text-5xl xl:text-7xl'>
-                            A fat GLOB of culture on Solana.
+                            A fat GLOB of culture on Solana.{' '}
                             <br className='hidden md:block' />
                             Nothing more. Nothing less.
                         </span>
