@@ -5,10 +5,11 @@ import Faq from "@/components/Faq";
 
 
 export default function Home() {
+  const value = 'D1AGWBJoD7oSSaUAgtFm5fRJPhZyJmqW8KSZp666jwJK'
   return (
     <main>
-      <Banner glob="WEN $GLOB" />
-      <About />
+      <Banner glob={'WEN $GLOB'} />
+      <About glob={value} />
       <Buying />
       <Faq />
     </main>
