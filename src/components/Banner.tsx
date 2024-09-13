@@ -44,8 +44,8 @@ export default function Banner(props: { glob: string }) {
                         onCopy={() => setCopied(true)}>
                         <div>
                             <ShinyButton
-                                text={props.glob}
-                                className="text-black md:text-xl max-w-[80vw] bg-[#5AA7FA] lg:py-6 lg:px-12 py-4 px-10 rounded-2xl border-2 border-black"
+                                text={'CA:' + ' ' + props.glob}
+                                className="text-black md:text-xl max-w-[87vw] bg-[#5AA7FA] lg:py-6 lg:px-12 py-4 px-10 rounded-2xl border-2 border-black"
                             />
                         </div>
 

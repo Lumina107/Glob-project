@@ -59,14 +59,14 @@ export default function Navbar() {
                         }
                     </ul>
                     <div className='md:hidden flex items-center gap-2 text-white'>
-                        <Link href={'/'} className='bg-white/20 p-1.5 text-2xl rounded-[3px] border border-white'><FaTelegramPlane /></Link>
-                        <Link href={'/'} className='bg-white/20 p-1.5 text-2xl rounded-[3px] border border-white'> <FaDiscord /></Link>
+                        <Link href={'https://t.co/Fqwb1WgPo2'} className='bg-white/20 p-1.5 text-2xl rounded-[3px] border border-white'><FaTelegramPlane /></Link>
+                        {/* <Link href={'/'} className='bg-white/20 p-1.5 text-2xl rounded-[3px] border border-white'> <FaDiscord /></Link> */}
                         <Link href={'https://t.co/LQRAhR7VfJ'} className='bg-white/20 p-1.5 text-2xl rounded-[3px] border border-white'><FaXTwitter /></Link>
                     </div>
                 </div>
                 <div className='hidden md:flex items-center gap-2 text-white'>
-                    <Link href={'/'} className='bg-white/20 p-1.5 text-lg  rounded-[3px] border border-white'><FaTelegramPlane /></Link>
-                    <Link href={'/'} className='bg-white/20 p-1.5 text-lg  rounded-[3px] border border-white'> <FaDiscord /></Link>
+                    <Link href={'https://t.co/Fqwb1WgPo2'} className='bg-white/20 p-1.5 text-lg  rounded-[3px] border border-white'><FaTelegramPlane /></Link>
+                    {/* <Link href={'/'} className='bg-white/20 p-1.5 text-lg  rounded-[3px] border border-white'> <FaDiscord /></Link> */}
                     <Link href={'https://t.co/LQRAhR7VfJ'} className='bg-white/20 p-1.5 text-lg  rounded-[3px] border border-white'><FaXTwitter /></Link>
                 </div>
             </div>

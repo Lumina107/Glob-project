@@ -13,8 +13,8 @@ export default function Footer() {
                 sizes='100%'
                 className='h-16 w-auto' />
             <div className="flex items-center justify-center gap-10 text-2xl text-white md:text-3xl">
-                <Link href={'/'}><FaTelegramPlane /></Link>
-                <Link href={'/'}> <FaDiscord /></Link>
+                <Link href={'https://t.co/Fqwb1WgPo2'}><FaTelegramPlane /></Link>
+                {/* <Link href={'/'}> <FaDiscord /></Link> */}
                 <Link href={'https://t.co/LQRAhR7VfJ'}><FaXTwitter /></Link>
             </div>
         </footer>
